@@ -1,0 +1,38 @@
+======================= First Time ===============================
+git init
+git config --global user.name "3bmo3ty"
+git config --global user.email "xxxxx@gmail.com"
+git remote add origin https://github.com/xxxx/xxxxx.git
+git add .
+git commit -m "initial commit"
+git log
+git push origin master
+====================================================================
+1-git init
+2-git config --global core.autocrlf false
+3-git config --global user.email "you@example.com"
+4-git config --global user.name "Your Name"
+5-git add .
+6-git commit -m "اي كومينت"
+7-git remote add origin https://github.com/mohamed-ameer/college.git
+7-git branch
+7-git remote -v
+8-git push -u origin master
+============================
+1-git init
+2-git add .
+3-git commit -m "اي كومينت"
+4-git remote add origin https://github.com/mohamed-ameer/college.git
+5-git push -u origin master
+=====================================================================
+git add hello.pdf (add to staging area)
+git reset head hello.pdf (remove from  staging area)
+git status (check what is new in the staging area)
+git commit (commit files from staging area to local repo)
+git push (push commits in local to remote repo)
+git branch (what branches do i have like master,main,...)
+git remote -v (what remote that contain the repo link do i have like origin =>' https://github.com/mohamed-ameer/college.git')
+git push remotename branchname (ex:git push origin master)
+
+
+

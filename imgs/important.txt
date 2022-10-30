@@ -1,0 +1,14 @@
+host ip:64.227.103.43
+==============================================================
+digitalocean configuration for(filezillaor winscp)
+====>username1:root            |username2:mohamed
+====>pass1:hwP9yEwJLrr6Qcw	    |pass2:asdfzxcv159753
+==============================================================
+postgresql
+database name:app_pump
+user:app_pumpuser
+pass:asdfzxcv159753
+==============================================================
+admin
+username app_pump
+pass   hwP9yEwJLrr6Qcw
